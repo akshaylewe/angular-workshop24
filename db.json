@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Abcy",
+      "email": "a@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Akshay Kumar A",
+      "email": "akshay809599@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "12345678",
+      "id": 3
+    },
+    {
+      "name": "Abcdefg",
+      "email": "abcdefg@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 4
+    }
+  ]
+}
